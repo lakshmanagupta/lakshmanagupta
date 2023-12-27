@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshmanagupta
-- 👀 I’m interested in developing app
-- 🌱 I’m currently learning JS
-- 📫 How to reach me...........
+- 👀 I’m interested in multiple frontend technologies
+- 🌱 I’m currently learning React
+  
 
 <!---
 lakshmanagupta/lakshmanagupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
